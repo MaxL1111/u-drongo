@@ -746,6 +746,10 @@ a.nav-link.tel:hover {
     padding-left: 20px;
 }
 
+.price{
+    font-size:20px;
+    text-decoration: underline;
+}
 /* -- / page housing.html */
 
 
